@@ -65,6 +65,7 @@ body{
         background: none;
         border: 2px solid hsl(0, 0%, 95%);
         color: hsl(0, 0%, 95%);
+        cursor: pointer;
     }
 
     #first{
